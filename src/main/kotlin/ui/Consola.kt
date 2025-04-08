@@ -10,6 +10,7 @@ class Consola : IEntradaSalida{
     }
 
 
+
     override fun mostrarMsj(msj: String) {
         TODO("Not yet implemented")
     }
